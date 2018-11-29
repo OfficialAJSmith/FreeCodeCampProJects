@@ -1,0 +1,50 @@
+html,body{
+    font-family: 'Roboto Condensed', sans-serif;
+     text-align:center;
+     min-width:280px;
+     color:#333;
+    background:#ccc
+   }
+   
+   #main{
+     background:#ccc;
+     padding:20px;
+     border: 0px solid;
+     border-radius:5px;
+     }
+   
+   #image{
+    max-width: 100%; 
+     display: block; 
+     height: auto;
+     margin: auto;
+   }
+   
+   #img-div{
+     margin:-5px;
+     margin-top:20px;
+     width:100%;
+     border:5px solid white;
+     background:white;
+   }
+    
+   #img-caption{
+     margin: 10px;
+     text-align:center;
+     font-size:16px;
+     font-weight: bold;
+   }
+   #headline{
+     margin-top:50px;  
+   }
+   
+   ul{
+     max-width:550px;
+     margin:0 auto;
+     text-align:left;
+     line-height:2.6em;
+     }
+   
+   blockquote{
+     font-style: italic;
+   }
